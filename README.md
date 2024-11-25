@@ -1,4 +1,4 @@
-# Blood Donation Management Mini Project
+# Blood Donation Management Mini Project SQL
 
 ## Project Overview
 This mini-project is a simple **database solution** for managing blood donor information. It helps track **donors**, their **health status**, **blood group**, **donation status**, and **last donation date**. This project serves as a **foundation** for applications in healthcare, non-profit organizations, or blood banks, aiming to streamline donor management.
